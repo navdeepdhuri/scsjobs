@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SCS Jobs</string>
+    <string name="create_an_account_click_here">Create an Account ? Click Here !</string>
+    <string name="already_having_account_click_for_login">Already Having Account ? Click For Login</string>
+</resources>
